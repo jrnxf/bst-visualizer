@@ -57,7 +57,7 @@ class BST:
         return ans_list
 
     def get_output(self):
-        output = self.root.__str__()
+        output = str(self.root)
         output += '\n\nPREORDER\t' + str(self.preorder([]))
         output += '\nINORDER\t\t' + str(self.inorder([]))
         output += '\nPOSTORDER\t' + str(self.postorder([]))

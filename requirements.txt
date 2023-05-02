@@ -3,7 +3,7 @@ astroid==2.3.3
 autopep8==1.4.4
 binarytree==4.1.0
 Click==7.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-RESTful==0.3.7
 gunicorn==20.0.4
 isort==4.3.21
